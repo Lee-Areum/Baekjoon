@@ -13,10 +13,16 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\IM대비 BOJ문제 모음">
+      <UniqueIdentifier>{476a151f-51ea-472b-ba83-043900cb48bd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2669.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1. 2669.cpp">
+      <Filter>소스 파일\IM대비 BOJ문제 모음</Filter>
+    </ClCompile>
+    <ClCompile Include="2. 2635.cpp">
+      <Filter>소스 파일\IM대비 BOJ문제 모음</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
