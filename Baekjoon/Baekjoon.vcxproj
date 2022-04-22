@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="1. 2669.cpp" />
     <ClCompile Include="2. 2635.cpp" />
+    <ClCompile Include="3. 1244) 스위치 켜고 끄기.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

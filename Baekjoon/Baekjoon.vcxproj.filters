@@ -24,5 +24,8 @@
     <ClCompile Include="2. 2635.cpp">
       <Filter>소스 파일\IM대비 BOJ문제 모음</Filter>
     </ClCompile>
+    <ClCompile Include="3. 1244) 스위치 켜고 끄기.cpp">
+      <Filter>소스 파일\IM대비 BOJ문제 모음</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
