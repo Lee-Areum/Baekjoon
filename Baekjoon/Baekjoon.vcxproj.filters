@@ -30,5 +30,8 @@
     <ClCompile Include="4. 2628%29 종이자르기.cpp">
       <Filter>소스 파일\IM대비 BOJ문제 모음</Filter>
     </ClCompile>
+    <ClCompile Include="5. 2116) 주사위 쌓기.cpp">
+      <Filter>소스 파일\IM대비 BOJ문제 모음</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
