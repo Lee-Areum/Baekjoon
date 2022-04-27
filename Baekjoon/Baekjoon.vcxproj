@@ -19,12 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1. 2669.cpp" />
-    <ClCompile Include="2. 2635.cpp" />
-    <ClCompile Include="4. 2628%29 종이자르기.cpp" />
-    <ClCompile Include="3. 1244) 스위치 켜고 끄기.cpp" />
-    <ClCompile Include="5. 2116) 주사위 쌓기.cpp" />
-    <ClCompile Include="6. 2605%29 줄세우기.cpp" />
+    <ClCompile Include="2669.cpp" />
+    <ClCompile Include="2635.cpp" />
+    <ClCompile Include="2559) 수열.cpp" />
+    <ClCompile Include="2628%29 종이자르기.cpp" />
+    <ClCompile Include="2244%29 스위치 켜고 끄기.cpp" />
+    <ClCompile Include="2116%29 주사위 쌓기.cpp" />
+    <ClCompile Include="2605%29 줄세우기.cpp" />
+    <ClCompile Include="예시.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
