@@ -51,5 +51,11 @@
     <ClCompile Include="2564.경비원.cpp">
       <Filter>소스 파일\IM대비 BOJ문제 모음</Filter>
     </ClCompile>
+    <ClCompile Include="방배정.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14696. 딱지놀이.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

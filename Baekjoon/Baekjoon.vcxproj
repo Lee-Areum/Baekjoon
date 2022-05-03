@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="14696. 딱지놀이.cpp" />
     <ClCompile Include="2564.경비원.cpp" />
     <ClCompile Include="2304) 창고 다각형.cpp" />
     <ClCompile Include="10157%29 자리배정.cpp" />
@@ -29,6 +30,7 @@
     <ClCompile Include="2244%29 스위치 켜고 끄기.cpp" />
     <ClCompile Include="2116%29 주사위 쌓기.cpp" />
     <ClCompile Include="2605%29 줄세우기.cpp" />
+    <ClCompile Include="방배정.cpp" />
     <ClCompile Include="예시.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
