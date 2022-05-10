@@ -19,7 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="10163. 색종이.cpp" />
     <ClCompile Include="14696. 딱지놀이.cpp" />
+    <ClCompile Include="2578. 빙고.cpp" />
     <ClCompile Include="2563.색종이.cpp" />
     <ClCompile Include="2564.경비원.cpp" />
     <ClCompile Include="2304) 창고 다각형.cpp" />
