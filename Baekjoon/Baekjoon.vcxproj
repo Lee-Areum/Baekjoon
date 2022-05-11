@@ -33,6 +33,7 @@
     <ClCompile Include="2244%29 스위치 켜고 끄기.cpp" />
     <ClCompile Include="2116%29 주사위 쌓기.cpp" />
     <ClCompile Include="2605%29 줄세우기.cpp" />
+    <ClCompile Include="10158. 개미.cpp" />
     <ClCompile Include="방배정.cpp" />
     <ClCompile Include="예시.cpp" />
   </ItemGroup>
