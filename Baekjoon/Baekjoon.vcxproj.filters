@@ -69,5 +69,11 @@
     <ClCompile Include="10158. 개미.cpp">
       <Filter>소스 파일\IM대비 BOJ문제 모음</Filter>
     </ClCompile>
+    <ClCompile Include="2491. 수열.cpp">
+      <Filter>소스 파일\IM대비 BOJ문제 모음</Filter>
+    </ClCompile>
+    <ClCompile Include="2477. 참외밭.cpp">
+      <Filter>소스 파일\IM대비 BOJ문제 모음</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
