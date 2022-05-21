@@ -75,5 +75,8 @@
     <ClCompile Include="2477. 참외밭.cpp">
       <Filter>소스 파일\IM대비 BOJ문제 모음</Filter>
     </ClCompile>
+    <ClCompile Include="직사각형.cpp">
+      <Filter>소스 파일\IM대비 BOJ문제 모음</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

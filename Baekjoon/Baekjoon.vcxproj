@@ -38,6 +38,7 @@
     <ClCompile Include="10158. 개미.cpp" />
     <ClCompile Include="방배정.cpp" />
     <ClCompile Include="예시.cpp" />
+    <ClCompile Include="직사각형.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
