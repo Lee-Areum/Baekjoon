@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="10163. 색종이.cpp" />
+    <ClCompile Include="11055.cpp" />
     <ClCompile Include="14696. 딱지놀이.cpp" />
     <ClCompile Include="2477. 참외밭.cpp" />
     <ClCompile Include="2491. 수열.cpp" />

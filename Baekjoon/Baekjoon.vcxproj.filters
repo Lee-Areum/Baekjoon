@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\IM대비 BOJ문제 모음">
       <UniqueIdentifier>{476a151f-51ea-472b-ba83-043900cb48bd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\내가만든 문제집">
+      <UniqueIdentifier>{fb59ade3-bb90-48b9-9ba9-bb79aa36b9f5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2669.cpp">
@@ -77,6 +80,9 @@
     </ClCompile>
     <ClCompile Include="직사각형.cpp">
       <Filter>소스 파일\IM대비 BOJ문제 모음</Filter>
+    </ClCompile>
+    <ClCompile Include="11055.cpp">
+      <Filter>소스 파일\내가만든 문제집</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
