@@ -84,5 +84,11 @@
     <ClCompile Include="11055.cpp">
       <Filter>소스 파일\내가만든 문제집</Filter>
     </ClCompile>
+    <ClCompile Include="2565. 전깃줄.cpp">
+      <Filter>소스 파일\내가만든 문제집</Filter>
+    </ClCompile>
+    <ClCompile Include="9625.BABBA.cpp">
+      <Filter>소스 파일\내가만든 문제집</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
