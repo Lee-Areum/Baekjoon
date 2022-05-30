@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\내가만든 문제집">
       <UniqueIdentifier>{fb59ade3-bb90-48b9-9ba9-bb79aa36b9f5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\단기간 성장">
+      <UniqueIdentifier>{f9c28704-1704-4597-9078-16506a119345}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2669.cpp">
@@ -92,6 +95,9 @@
     </ClCompile>
     <ClCompile Include="9007 카누.cpp">
       <Filter>소스 파일\내가만든 문제집</Filter>
+    </ClCompile>
+    <ClCompile Include="2749%29 파보나치 수3.cpp">
+      <Filter>소스 파일\단기간 성장</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
