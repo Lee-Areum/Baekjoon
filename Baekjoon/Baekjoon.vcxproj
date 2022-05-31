@@ -21,6 +21,8 @@
   <ItemGroup>
     <ClCompile Include="10163. 색종이.cpp" />
     <ClCompile Include="11055.cpp" />
+    <ClCompile Include="11720) 숫자의 합.cpp" />
+    <ClCompile Include="1546) 퍙군.cpp" />
     <ClCompile Include="2749%29 파보나치 수3.cpp" />
     <ClCompile Include="14696. 딱지놀이.cpp" />
     <ClCompile Include="2477. 참외밭.cpp" />
@@ -39,9 +41,17 @@
     <ClCompile Include="2116%29 주사위 쌓기.cpp" />
     <ClCompile Include="2605%29 줄세우기.cpp" />
     <ClCompile Include="10158. 개미.cpp" />
+    <ClCompile Include="3052)나머지.cpp" />
     <ClCompile Include="9007 카누.cpp" />
     <ClCompile Include="9625.BABBA.cpp" />
+    <ClCompile Include="구구단.cpp" />
+    <ClCompile Include="단어의 개수.cpp" />
     <ClCompile Include="방배정.cpp" />
+    <ClCompile Include="별 찍기-2.cpp" />
+    <ClCompile Include="별찍기-1.cpp" />
+    <ClCompile Include="상수.cpp" />
+    <ClCompile Include="1106%29 파일 합치기.cpp" />
+    <ClCompile Include="시험성적.cpp" />
     <ClCompile Include="예시.cpp" />
     <ClCompile Include="직사각형.cpp" />
   </ItemGroup>

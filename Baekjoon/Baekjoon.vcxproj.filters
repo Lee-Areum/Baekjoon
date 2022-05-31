@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\단기간 성장">
       <UniqueIdentifier>{f9c28704-1704-4597-9078-16506a119345}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\클래스 문제">
+      <UniqueIdentifier>{23527759-6558-4e13-a226-f5d7e590a521}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2669.cpp">
@@ -97,6 +100,36 @@
       <Filter>소스 파일\내가만든 문제집</Filter>
     </ClCompile>
     <ClCompile Include="2749%29 파보나치 수3.cpp">
+      <Filter>소스 파일\단기간 성장</Filter>
+    </ClCompile>
+    <ClCompile Include="1546) 퍙군.cpp">
+      <Filter>소스 파일\클래스 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="3052)나머지.cpp">
+      <Filter>소스 파일\클래스 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="11720) 숫자의 합.cpp">
+      <Filter>소스 파일\클래스 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="구구단.cpp">
+      <Filter>소스 파일\클래스 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="단어의 개수.cpp">
+      <Filter>소스 파일\클래스 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="별 찍기-2.cpp">
+      <Filter>소스 파일\클래스 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="별찍기-1.cpp">
+      <Filter>소스 파일\클래스 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="상수.cpp">
+      <Filter>소스 파일\클래스 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="시험성적.cpp">
+      <Filter>소스 파일\클래스 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="1106%29 파일 합치기.cpp">
       <Filter>소스 파일\단기간 성장</Filter>
     </ClCompile>
   </ItemGroup>
