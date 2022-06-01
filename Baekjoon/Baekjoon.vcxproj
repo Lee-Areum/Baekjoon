@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="10163. 색종이.cpp" />
+    <ClCompile Include="1085) 직사각형에서 탈출.cpp" />
     <ClCompile Include="11055.cpp" />
     <ClCompile Include="11720) 숫자의 합.cpp" />
     <ClCompile Include="1546) 퍙군.cpp" />

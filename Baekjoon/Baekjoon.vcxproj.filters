@@ -25,6 +25,12 @@
     <Filter Include="소스 파일\클래스 문제">
       <UniqueIdentifier>{23527759-6558-4e13-a226-f5d7e590a521}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\클래스 문제\레벨 1">
+      <UniqueIdentifier>{ca5399c8-c9cc-4863-a340-e13cc605ddf0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\클래스 문제\레벨 2">
+      <UniqueIdentifier>{9fed2133-99cc-4353-b0a3-ac66e181f737}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2669.cpp">
@@ -102,35 +108,38 @@
     <ClCompile Include="2749%29 파보나치 수3.cpp">
       <Filter>소스 파일\단기간 성장</Filter>
     </ClCompile>
-    <ClCompile Include="1546) 퍙군.cpp">
-      <Filter>소스 파일\클래스 문제</Filter>
-    </ClCompile>
-    <ClCompile Include="3052)나머지.cpp">
-      <Filter>소스 파일\클래스 문제</Filter>
-    </ClCompile>
-    <ClCompile Include="11720) 숫자의 합.cpp">
-      <Filter>소스 파일\클래스 문제</Filter>
-    </ClCompile>
-    <ClCompile Include="구구단.cpp">
-      <Filter>소스 파일\클래스 문제</Filter>
-    </ClCompile>
-    <ClCompile Include="단어의 개수.cpp">
-      <Filter>소스 파일\클래스 문제</Filter>
-    </ClCompile>
-    <ClCompile Include="별 찍기-2.cpp">
-      <Filter>소스 파일\클래스 문제</Filter>
-    </ClCompile>
-    <ClCompile Include="별찍기-1.cpp">
-      <Filter>소스 파일\클래스 문제</Filter>
-    </ClCompile>
-    <ClCompile Include="상수.cpp">
-      <Filter>소스 파일\클래스 문제</Filter>
-    </ClCompile>
-    <ClCompile Include="시험성적.cpp">
-      <Filter>소스 파일\클래스 문제</Filter>
-    </ClCompile>
     <ClCompile Include="1106%29 파일 합치기.cpp">
       <Filter>소스 파일\단기간 성장</Filter>
+    </ClCompile>
+    <ClCompile Include="1546) 퍙군.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 1</Filter>
+    </ClCompile>
+    <ClCompile Include="3052)나머지.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 1</Filter>
+    </ClCompile>
+    <ClCompile Include="11720) 숫자의 합.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 1</Filter>
+    </ClCompile>
+    <ClCompile Include="구구단.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 1</Filter>
+    </ClCompile>
+    <ClCompile Include="단어의 개수.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 1</Filter>
+    </ClCompile>
+    <ClCompile Include="별 찍기-2.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 1</Filter>
+    </ClCompile>
+    <ClCompile Include="별찍기-1.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 1</Filter>
+    </ClCompile>
+    <ClCompile Include="상수.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 1</Filter>
+    </ClCompile>
+    <ClCompile Include="시험성적.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 1</Filter>
+    </ClCompile>
+    <ClCompile Include="1085) 직사각형에서 탈출.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
