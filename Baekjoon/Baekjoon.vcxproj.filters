@@ -153,9 +153,6 @@
     <ClCompile Include="2292)벌집.cpp">
       <Filter>소스 파일\클래스 문제\레벨 2</Filter>
     </ClCompile>
-    <ClCompile Include="2798) 블랙잭.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="15829)Hashing.cpp">
       <Filter>소스 파일\클래스 문제\레벨 2</Filter>
     </ClCompile>
@@ -166,6 +163,60 @@
       <Filter>소스 파일\클래스 문제\레벨 2</Filter>
     </ClCompile>
     <ClCompile Include="2869) 달팽이는 올라가고 싶다.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 2</Filter>
+    </ClCompile>
+    <ClCompile Include="11050) 이항계수1.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 2</Filter>
+    </ClCompile>
+    <ClCompile Include="1181) 단어 정렬.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 2</Filter>
+    </ClCompile>
+    <ClCompile Include="2609) 최대공약수와 최소공배수.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 2</Filter>
+    </ClCompile>
+    <ClCompile Include="2798) 블랙잭.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 2</Filter>
+    </ClCompile>
+    <ClCompile Include="1436%29 영화감독 숌.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 2</Filter>
+    </ClCompile>
+    <ClCompile Include="수 정렬하기2.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 2</Filter>
+    </ClCompile>
+    <ClCompile Include="7568) 덩치.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 2</Filter>
+    </ClCompile>
+    <ClCompile Include="10814) 나이순 정렬.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 2</Filter>
+    </ClCompile>
+    <ClCompile Include="수 정렬하기3.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 2</Filter>
+    </ClCompile>
+    <ClCompile Include="11651) 좌표 정렬하기2.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 2</Filter>
+    </ClCompile>
+    <ClCompile Include="1018) 체스판 다시 색칠하기.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 2</Filter>
+    </ClCompile>
+    <ClCompile Include="1978%29 소수찾기.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 2</Filter>
+    </ClCompile>
+    <ClCompile Include="2164) 카드2.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 2</Filter>
+    </ClCompile>
+    <ClCompile Include="4949) 균형잡힌 세상.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 2</Filter>
+    </ClCompile>
+    <ClCompile Include="10816) 숫자카드 2.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 2</Filter>
+    </ClCompile>
+    <ClCompile Include="10866) 덱.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 2</Filter>
+    </ClCompile>
+    <ClCompile Include="11650) 좌표 정렬하기.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 2</Filter>
+    </ClCompile>
+    <ClCompile Include="11866) 오세푸스 문제 0.cpp">
       <Filter>소스 파일\클래스 문제\레벨 2</Filter>
     </ClCompile>
   </ItemGroup>

@@ -20,14 +20,26 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="10163. 색종이.cpp" />
+    <ClCompile Include="1018) 체스판 다시 색칠하기.cpp" />
+    <ClCompile Include="10814) 나이순 정렬.cpp" />
+    <ClCompile Include="10816) 숫자카드 2.cpp" />
     <ClCompile Include="1085) 직사각형에서 탈출.cpp" />
+    <ClCompile Include="10866) 덱.cpp" />
+    <ClCompile Include="11050) 이항계수1.cpp" />
     <ClCompile Include="11055.cpp" />
+    <ClCompile Include="11650) 좌표 정렬하기.cpp" />
+    <ClCompile Include="11651) 좌표 정렬하기2.cpp" />
     <ClCompile Include="11720) 숫자의 합.cpp" />
+    <ClCompile Include="1181) 단어 정렬.cpp" />
+    <ClCompile Include="11866) 오세푸스 문제 0.cpp" />
     <ClCompile Include="1259) 팰린드롬수.cpp" />
     <ClCompile Include="1546) 퍙군.cpp" />
     <ClCompile Include="15829)Hashing.cpp" />
+    <ClCompile Include="1978%29 소수찾기.cpp" />
+    <ClCompile Include="2164) 카드2.cpp" />
     <ClCompile Include="2231) 분해합.cpp" />
     <ClCompile Include="2292)벌집.cpp" />
+    <ClCompile Include="2609) 최대공약수와 최소공배수.cpp" />
     <ClCompile Include="2749%29 파보나치 수3.cpp" />
     <ClCompile Include="14696. 딱지놀이.cpp" />
     <ClCompile Include="2477. 참외밭.cpp" />
@@ -50,6 +62,8 @@
     <ClCompile Include="2798) 블랙잭.cpp" />
     <ClCompile Include="2869) 달팽이는 올라가고 싶다.cpp" />
     <ClCompile Include="3052)나머지.cpp" />
+    <ClCompile Include="4949) 균형잡힌 세상.cpp" />
+    <ClCompile Include="7568) 덩치.cpp" />
     <ClCompile Include="9007 카누.cpp" />
     <ClCompile Include="9625.BABBA.cpp" />
     <ClCompile Include="ACM 호텔.cpp" />
@@ -60,7 +74,10 @@
     <ClCompile Include="별찍기-1.cpp" />
     <ClCompile Include="상수.cpp" />
     <ClCompile Include="1106%29 파일 합치기.cpp" />
+    <ClCompile Include="수 정렬하기2.cpp" />
+    <ClCompile Include="수 정렬하기3.cpp" />
     <ClCompile Include="시험성적.cpp" />
+    <ClCompile Include="1436%29 영화감독 숌.cpp" />
     <ClCompile Include="예시.cpp" />
     <ClCompile Include="직각삼각형.cpp" />
     <ClCompile Include="직사각형.cpp" />
