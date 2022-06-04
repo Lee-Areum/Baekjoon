@@ -16,20 +16,20 @@
 //	int N; cin >> N;
 //	vector<int> list;
 //	map<int, int> m;
-//	float sum = 0;
+//	int sum = 0;
 //	for (int i = 0; i < N; i++) {
 //		int n; cin >> n;
 //		list.push_back(n);
 //		sum += n; //Æò±Õ°ª
 //		m[n]++; //ÃÖºó°ª
 //	}
-//	int answer = round(sum / N);
-//	cout << ((answer == -0)?0:answer) << endl;
-//	stable_sort(list.begin(), list.end());
-//	cout << list[N / 2] << endl;
+//	int answer = round((double)sum / N);
 //	vector<pair<int, int>> most;
 //	most.assign(m.begin(), m.end());
 //	stable_sort(most.begin(), most.end(),comp);
+//	cout << answer << endl;
+//	stable_sort(list.begin(), list.end());
+//	cout << list[(N - 1) / 2] << endl;
 //	if (most.size() > 1 && most[0].second == most[1].second) {
 //		cout << most[1].first << endl;
 //	}

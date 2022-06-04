@@ -231,14 +231,14 @@
     <ClCompile Include="1966) 프린터 큐.cpp">
       <Filter>소스 파일\클래스 문제\레벨 2</Filter>
     </ClCompile>
+    <ClCompile Include="18111%29 마인크래프트.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 2</Filter>
+    </ClCompile>
     <ClCompile Include="2108) 통계햑.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\클래스 문제\레벨 2</Filter>
     </ClCompile>
     <ClCompile Include="2805) 나무 자르기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="18111) 제출.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\클래스 문제\레벨 2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
