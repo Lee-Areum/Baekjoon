@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\클래스 문제\레벨 2">
       <UniqueIdentifier>{9fed2133-99cc-4353-b0a3-ac66e181f737}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\클래스 문제\레벨 3">
+      <UniqueIdentifier>{6aef41e5-2b41-464e-a84a-349b22ef2ee9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2669.cpp">
@@ -239,6 +242,30 @@
     </ClCompile>
     <ClCompile Include="2805) 나무 자르기.cpp">
       <Filter>소스 파일\클래스 문제\레벨 2</Filter>
+    </ClCompile>
+    <ClCompile Include="팩토리얼 0의 개수.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="11723) 집합.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="1764) 듣보잡.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="11047) 동전 0.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="11399) ATM.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="17219) 비밀번호 찾기.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="17626%29 Four Squares.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="1003) 파보나치 함수.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

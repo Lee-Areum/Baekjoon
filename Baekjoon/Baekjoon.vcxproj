@@ -19,23 +19,30 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="1003) 파보나치 함수.cpp" />
     <ClCompile Include="10163. 색종이.cpp" />
     <ClCompile Include="1018) 체스판 다시 색칠하기.cpp" />
     <ClCompile Include="10814) 나이순 정렬.cpp" />
     <ClCompile Include="10816) 숫자카드 2.cpp" />
     <ClCompile Include="1085) 직사각형에서 탈출.cpp" />
     <ClCompile Include="10866) 덱.cpp" />
+    <ClCompile Include="11047) 동전 0.cpp" />
     <ClCompile Include="11050) 이항계수1.cpp" />
     <ClCompile Include="11055.cpp" />
+    <ClCompile Include="11399) ATM.cpp" />
     <ClCompile Include="11650) 좌표 정렬하기.cpp" />
     <ClCompile Include="11651) 좌표 정렬하기2.cpp" />
     <ClCompile Include="11720) 숫자의 합.cpp" />
+    <ClCompile Include="11723) 집합.cpp" />
     <ClCompile Include="1181) 단어 정렬.cpp" />
     <ClCompile Include="11866) 오세푸스 문제 0.cpp" />
     <ClCompile Include="1259) 팰린드롬수.cpp" />
     <ClCompile Include="1546) 퍙군.cpp" />
     <ClCompile Include="15829)Hashing.cpp" />
     <ClCompile Include="1654) 랜선 자르기.cpp" />
+    <ClCompile Include="17219) 비밀번호 찾기.cpp" />
+    <ClCompile Include="17626%29 Four Squares.cpp" />
+    <ClCompile Include="1764) 듣보잡.cpp" />
     <ClCompile Include="18111%29 마인크래프트.cpp" />
     <ClCompile Include="1874) 스택 수열.cpp" />
     <ClCompile Include="1929) 소수 구하기.cpp" />
@@ -88,6 +95,7 @@
     <ClCompile Include="예시.cpp" />
     <ClCompile Include="직각삼각형.cpp" />
     <ClCompile Include="직사각형.cpp" />
+    <ClCompile Include="팩토리얼 0의 개수.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
