@@ -267,5 +267,29 @@
     <ClCompile Include="1003) 파보나치 함수.cpp">
       <Filter>소스 파일\클래스 문제\레벨 3</Filter>
     </ClCompile>
+    <ClCompile Include="1463%29 1로 만둘기.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="2579) 계단 오르기.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="2606) 바이러스.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="9095) 1,2,3 더하기.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="9375) 패션왕 신해빈.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="9461) 파도반 수열.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="11726) 2xn 타일링.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="구간 합 구하기4.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -34,9 +34,11 @@
     <ClCompile Include="11651) 좌표 정렬하기2.cpp" />
     <ClCompile Include="11720) 숫자의 합.cpp" />
     <ClCompile Include="11723) 집합.cpp" />
+    <ClCompile Include="11726) 2xn 타일링.cpp" />
     <ClCompile Include="1181) 단어 정렬.cpp" />
     <ClCompile Include="11866) 오세푸스 문제 0.cpp" />
     <ClCompile Include="1259) 팰린드롬수.cpp" />
+    <ClCompile Include="1463%29 1로 만둘기.cpp" />
     <ClCompile Include="1546) 퍙군.cpp" />
     <ClCompile Include="15829)Hashing.cpp" />
     <ClCompile Include="1654) 랜선 자르기.cpp" />
@@ -52,6 +54,8 @@
     <ClCompile Include="2164) 카드2.cpp" />
     <ClCompile Include="2231) 분해합.cpp" />
     <ClCompile Include="2292)벌집.cpp" />
+    <ClCompile Include="2579) 계단 오르기.cpp" />
+    <ClCompile Include="2606) 바이러스.cpp" />
     <ClCompile Include="2609) 최대공약수와 최소공배수.cpp" />
     <ClCompile Include="2749%29 파보나치 수3.cpp" />
     <ClCompile Include="14696. 딱지놀이.cpp" />
@@ -79,8 +83,12 @@
     <ClCompile Include="4949) 균형잡힌 세상.cpp" />
     <ClCompile Include="7568) 덩치.cpp" />
     <ClCompile Include="9007 카누.cpp" />
+    <ClCompile Include="9095) 1,2,3 더하기.cpp" />
+    <ClCompile Include="9375) 패션왕 신해빈.cpp" />
+    <ClCompile Include="9461) 파도반 수열.cpp" />
     <ClCompile Include="9625.BABBA.cpp" />
     <ClCompile Include="ACM 호텔.cpp" />
+    <ClCompile Include="구간 합 구하기4.cpp" />
     <ClCompile Include="구구단.cpp" />
     <ClCompile Include="단어의 개수.cpp" />
     <ClCompile Include="방배정.cpp" />
