@@ -291,5 +291,20 @@
     <ClCompile Include="구간 합 구하기4.cpp">
       <Filter>소스 파일\클래스 문제\레벨 3</Filter>
     </ClCompile>
+    <ClCompile Include="1260) DFS와 BFS.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="1541) 잃어버린 괄호.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="1780) 종이의 개수.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="1927) 최소 힙.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="11727) 2xn 타일링 2.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
