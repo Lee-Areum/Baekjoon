@@ -315,5 +315,17 @@
     <ClCompile Include="11724) 연결 요소의 개수.cpp">
       <Filter>소스 파일\클래스 문제\레벨 3</Filter>
     </ClCompile>
+    <ClCompile Include="1074) 압축.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="2178) 미로 탐색.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="5525)IOIOI.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="18870) 좌표 압축.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
