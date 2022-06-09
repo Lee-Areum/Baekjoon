@@ -31,6 +31,7 @@
     <ClCompile Include="11050) 이항계수1.cpp" />
     <ClCompile Include="11055.cpp" />
     <ClCompile Include="11279) 최대 힙.cpp" />
+    <ClCompile Include="11286)  절댓값 합.cpp" />
     <ClCompile Include="11399) ATM.cpp" />
     <ClCompile Include="11650) 좌표 정렬하기.cpp" />
     <ClCompile Include="11651) 좌표 정렬하기2.cpp" />
@@ -57,8 +58,10 @@
     <ClCompile Include="18870) 좌표 압축.cpp" />
     <ClCompile Include="1927) 최소 힙.cpp" />
     <ClCompile Include="1929) 소수 구하기.cpp" />
+    <ClCompile Include="1931) 회의실 배정.cpp" />
     <ClCompile Include="1966) 프린터 큐.cpp" />
     <ClCompile Include="1978%29 소수찾기.cpp" />
+    <ClCompile Include="1992) 쿼드 트리.cpp" />
     <ClCompile Include="2108) 통계햑.cpp" />
     <ClCompile Include="2164) 카드2.cpp" />
     <ClCompile Include="2178) 미로 탐색.cpp" />
@@ -92,6 +95,7 @@
     <ClCompile Include="2869) 달팽이는 올라가고 싶다.cpp" />
     <ClCompile Include="3052)나머지.cpp" />
     <ClCompile Include="4949) 균형잡힌 세상.cpp" />
+    <ClCompile Include="5430)AC .cpp" />
     <ClCompile Include="5525)IOIOI.cpp" />
     <ClCompile Include="7568) 덩치.cpp" />
     <ClCompile Include="9007 카누.cpp" />

@@ -327,5 +327,17 @@
     <ClCompile Include="18870) 좌표 압축.cpp">
       <Filter>소스 파일\클래스 문제\레벨 3</Filter>
     </ClCompile>
+    <ClCompile Include="1931) 회의실 배정.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="1992) 쿼드 트리.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="5430)AC .cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
+    <ClCompile Include="11286)  절댓값 합.cpp">
+      <Filter>소스 파일\클래스 문제\레벨 3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
