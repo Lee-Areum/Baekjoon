@@ -49,6 +49,7 @@
     <ClCompile Include="1546) 퍙군.cpp" />
     <ClCompile Include="15829)Hashing.cpp" />
     <ClCompile Include="1654) 랜선 자르기.cpp" />
+    <ClCompile Include="16928) 뱀과 사다리 게임.cpp" />
     <ClCompile Include="17219) 비밀번호 찾기.cpp" />
     <ClCompile Include="17626%29 Four Squares.cpp" />
     <ClCompile Include="1764) 듣보잡.cpp" />
