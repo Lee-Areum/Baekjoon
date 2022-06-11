@@ -48,6 +48,7 @@
     <ClCompile Include="1541) 잃어버린 괄호.cpp" />
     <ClCompile Include="1546) 퍙군.cpp" />
     <ClCompile Include="15829)Hashing.cpp" />
+    <ClCompile Include="11382%29 a+b+c.cpp" />
     <ClCompile Include="1654) 랜선 자르기.cpp" />
     <ClCompile Include="16928) 뱀과 사다리 게임.cpp" />
     <ClCompile Include="17219) 비밀번호 찾기.cpp" />
