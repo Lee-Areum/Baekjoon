@@ -44,6 +44,7 @@
     <ClCompile Include="11727) 2xn 타일링 2.cpp" />
     <ClCompile Include="1181) 단어 정렬.cpp" />
     <ClCompile Include="11866) 오세푸스 문제 0.cpp" />
+    <ClCompile Include="10757%29 큰수 A+B.cpp" />
     <ClCompile Include="1259) 팰린드롬수.cpp" />
     <ClCompile Include="1260) DFS와 BFS.cpp" />
     <ClCompile Include="1463%29 1로 만둘기.cpp" />
