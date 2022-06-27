@@ -34,6 +34,9 @@
     <Filter Include="소스 파일\클래스 문제\레벨 3">
       <UniqueIdentifier>{6aef41e5-2b41-464e-a84a-349b22ef2ee9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\랜덤">
+      <UniqueIdentifier>{febc1e90-aa9d-4b34-9239-86c68d9b67d1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2669.cpp">
@@ -365,6 +368,12 @@
     </ClCompile>
     <ClCompile Include="15552) 빠른 A+B.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1032) 명령 프롬프트.cpp">
+      <Filter>소스 파일\랜덤</Filter>
+    </ClCompile>
+    <ClCompile Include="1141)접두사.cpp">
+      <Filter>소스 파일\랜덤</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
