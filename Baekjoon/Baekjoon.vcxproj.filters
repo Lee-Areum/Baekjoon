@@ -375,5 +375,8 @@
     <ClCompile Include="1141)접두사.cpp">
       <Filter>소스 파일\랜덤</Filter>
     </ClCompile>
+    <ClCompile Include="2480) 세개의 주사위.cpp">
+      <Filter>소스 파일\단기간 성장</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -78,6 +78,7 @@
     <ClCompile Include="2231) 분해합.cpp" />
     <ClCompile Include="2292)벌집.cpp" />
     <ClCompile Include="2420) 사파리월드.cpp" />
+    <ClCompile Include="2480) 세개의 주사위.cpp" />
     <ClCompile Include="2579) 계단 오르기.cpp" />
     <ClCompile Include="2606) 바이러스.cpp" />
     <ClCompile Include="2609) 최대공약수와 최소공배수.cpp" />
