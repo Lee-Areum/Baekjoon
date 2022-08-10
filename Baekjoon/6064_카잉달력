@@ -1,0 +1,41 @@
+#include <iostream>
+#include <algorithm>
+using namespace std;
+int M, N, x, y;
+
+int gcd(int a, int b) { //최소 공약수 - 유클리드 호제법
+	if (b == 0) return a;
+	return gcd(b, a%b);
+}
+int lcm(int a, int b) { //최대 공약수
+	return a * b / gcd(a, b);
+}
+
+int check() {
+	int start = (M < N) ? y : x;
+	for (int i = start; i <= lcm(M, N); i+=max(M,N)) {
+		if (start == y) {
+			if (i%M == x % M) {
+				return i;
+			}
+		}
+		else {
+			if (i%N == y % N) {
+				return i;
+			}
+		}
+	}
+	return -1;
+}
+
+int main() {
+	int Size; cin >> Size;
+	for (int i = 0; i < Size; i++) {
+		cin >> M >> N;
+		cin >> x >> y;
+		cout<<check()<<endl;
+	}
+
+
+	return 0;
+}
