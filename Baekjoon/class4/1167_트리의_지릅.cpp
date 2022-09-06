@@ -40,3 +40,8 @@ int main(){
 	cout << maxCon << endl;
 	return 0;
 }
+/* 
+	트리는 모든 노드가 연결되어 있음
+	때문에 루트에서 가장 먼 노드는 루트에서 가까운 또다른 
+	https://i-never-stop-study.tistory.com/102
+*/
