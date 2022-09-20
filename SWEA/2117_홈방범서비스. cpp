@@ -1,0 +1,63 @@
+#include <iostream>
+#include <vector>
+#include <queue>
+#include <cmath>
+using namespace std;
+int main() {
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL); cout.tie(NULL);
+	int T; cin >> T;
+	for (int t = 1; t <= T; t++) {
+		int N, M; cin >> N >> M;
+		int home = 0;
+		int board[40][40];
+		for (int i = 0; i < N; i++) {
+			for (int k = 0; k < N; k++) {
+				int n; cin >> n;
+				board[i][k] = n;
+				if (n == 1) home++;
+			}
+		}
+		int maxHouse = 0;
+		int dx[] = { 0,1,0,-1 };
+		int dy[] = { -1,0,1,0 };
+		int i = 1;
+		for (int x = 0; x < N; x++) {
+			for (int y = 0; y < N; y++) { //K
+				queue<vector<int>> q; //x,y,count
+				bool visited[40][40] = { false };
+				q.push({ x,y,1 });
+				visited[x][y] = true;
+				int house = 0; //포함되는 집
+				int i = 1; //k
+				if (board[x][y]) house++;
+				while (!q.empty()) { //bfs
+					int minus = (pow(i, 2) + pow(i - 1, 2));
+					int qSize = q.size();
+					if (minus <= house * M) { //이익이 나면
+						maxHouse = max(maxHouse, house);
+					}
+					if (house == home) break; //범위를 벗어나면
+					for (int j = 0; j < qSize; j++) {
+						vector<int> now = q.front(); q.pop();
+						for (int j = 0; j < 4; j++) {
+							int xx = now[0] + dx[j];
+							int yy = now[1] + dy[j];
+							if (0 <= xx && xx < N && 0 <= yy && yy < N
+								&& !visited[xx][yy]) {
+								q.push({ xx,yy,now[2] + 1 });
+								visited[xx][yy] = true;
+								if (board[xx][yy]) {
+									house++;
+								}
+							}
+						}
+					}
+					i++;
+				}
+			}
+		}
+		cout << "#" << t << " " << maxHouse << "\n";
+	}
+	return 0;
+}
